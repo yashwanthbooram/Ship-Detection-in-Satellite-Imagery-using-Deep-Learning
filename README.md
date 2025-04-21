@@ -18,7 +18,7 @@ Besides that, an unsupervised classification model has also been developed which
 
 ## Dataset
 
-This project uses the HRSC2016 (High-Resolution Ship Collections 2016) dataset and contains:
+This project uses the [HRSC2016 (High-Resolution Ship Collections 2016) dataset](https://www.kaggle.com/datasets/guofeng/hrsc2016) and contains:
 
 + High-resolution satellite imagery of maritime environment
 + XML annotations with bounding box coordinates for ships
